@@ -1,12 +1,12 @@
-# The OpenAPI Specification
+# Спецификация OpenAPI
 
 [![Build Status](https://travis-ci.org/OAI/OpenAPI-Specification.svg?branch=master)](https://travis-ci.org/OAI/OpenAPI-Specification)
 
 ![](https://avatars3.githubusercontent.com/u/16343502?v=3&s=200)
 
-The OpenAPI Specification is a community-driven open specification within the [OpenAPI Initiative](https://www.openapis.org/), a Linux Foundation Collaborative Project.
+Спецификация OpenAPI представляет собой открытый проект разрабатываемый инициативной группой [OpenAPI Initiative](https://www.openapis.org/), совместно a фондом Linux.
 
-The OpenAPI Specification (OAS) defines a standard, programming language-agnostic interface description for [REST APIs](https://en.wikipedia.org/wiki/Representational_state_transfer), which allows both humans and computers to discover and understand the capabilities of a service without requiring access to source code, additional documentation, or inspection of network traffic. When properly defined via OpenAPI, a consumer can understand and interact with the remote service with a minimal amount of implementation logic. Similar to what interface descriptions have done for lower-level programming, the OpenAPI Specification removes guesswork in calling a service.
+Спецификация OpenAPI (OAS) описывает стандарт, агностического языка используемого для описания програмных интерфейсов [REST APIs](https://ru.wikipedia.org/wiki/REST), which allows both humans and computers to discover and understand the capabilities of a service without requiring access to source code, additional documentation, or inspection of network traffic. When properly defined via OpenAPI, a consumer can understand and interact with the remote service with a minimal amount of implementation logic. Similar to what interface descriptions have done for lower-level programming, the OpenAPI Specification removes guesswork in calling a service.
 
 Use cases for machine-readable API definition documents include, but are not limited to: interactive documentation; code generation for documentation, clients, and servers; and automation of test cases. OpenAPI documents describe an API's services and are represented in either YAML or JSON formats. These documents may either be produced and served statically or be generated dynamically from an application.
 
@@ -14,25 +14,25 @@ The OpenAPI Specification does not require rewriting existing APIs. It does not 
 
 This GitHub project is the starting point for OpenAPI. Here you will find the information you need about the OpenAPI Specification, simple examples of what it looks like, and some general information regarding the project.
 
-## Current Version - 3.0.1
+## Текущая версия - 3.0.1
 
 The current version of the OpenAPI specification is [OpenAPI Specification 3.0.1](versions/3.0.1.md).
 
-### Future Versions
+### Следующая версия
 
 [3.0.2](https://github.com/OAI/OpenAPI-Specification/tree/v3.0.2-dev) - The next PATCH version. Patch-level fixes (typos, clarifications, etc.) should be submitted against this branch.
 
-### Previous Versions
+### Предыдущая версия
 
 This repository also contains the [OpenAPI Specification 2.0](versions/2.0.md), which is identical to the Swagger 2.0 specification before it was renamed to "OpenAPI Specification", as well as the Swagger 1.2 and Swagger 2.0 specifications.
 
 Each folder in this repository, such as [examples](examples) and [schemas](schemas), should contain folders pertaining to the current and previous versions of the specification.
 
-## See It in Action
+## Посмотреть в действии
 
-If you just want to see it work, check out the [list of current examples](examples/v3.0).
+If you just want to see it work, check out the [список примеров](examples/v3.0).
 
-## Tools and Libraries
+## Инструменты и библиотеки
 
 Looking to see how you can create your own OpenAPI definition, present it, or otherwise use it? Check out the growing
 [list of 3.0 implementations](IMPLEMENTATIONS.md).
@@ -54,8 +54,8 @@ The Open API Initiative encourages participation from individuals and companies 
 
 Not all feedback can be accommodated and there may be solid arguments for or against a change being appropriate for the specification.
 
-## Licensing
+## Лицензия
 
-See: [License (Apache-2.0)](https://github.com/OAI/OpenAPI-Specification/blob/master/LICENSE)
+подробнее: [Лицензия (Apache-2.0)](https://github.com/OAI/OpenAPI-Specification/blob/master/LICENSE)
 
 ![Analytics](https://ga-beacon.appspot.com/UA-831873-42/readme.md?pixel)
