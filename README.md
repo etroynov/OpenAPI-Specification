@@ -16,21 +16,21 @@ This GitHub project is the starting point for OpenAPI. Here you will find the in
 
 ## Текущая версия - 3.0.1
 
-The current version of the OpenAPI specification is [OpenAPI Specification 3.0.1](versions/3.0.1.md).
+С актуальной версией спецификации вы можете ознакомится по ссылке [OpenAPI 3.0.1](versions/3.0.1.md).
 
 ### Следующая версия
 
-[3.0.2](https://github.com/OAI/OpenAPI-Specification/tree/v3.0.2-dev) - The next PATCH version. Patch-level fixes (typos, clarifications, etc.) should be submitted against this branch.
+[3.0.2](https://github.com/OAI/OpenAPI-Specification/tree/v3.0.2-dev) - следующая версия исправлений. Релиз включает исправления (опечатки, уточнения и тд.), изменения будут включены в текущую ветку.
 
 ### Предыдущая версия
 
-This repository also contains the [OpenAPI Specification 2.0](versions/2.0.md), which is identical to the Swagger 2.0 specification before it was renamed to "OpenAPI Specification", as well as the Swagger 1.2 and Swagger 2.0 specifications.
+Этот репозиторий также содержит спецификацию [OpenAPI 2.0](versions/2.0.md), которая идентична спецификации Swagger 2.0 до того как она была переименованна в "OpenAPI", так же как и Swagger 1.2 и спецификация Swagger 2.0.
 
-Each folder in this repository, such as [examples](examples) and [schemas](schemas), should contain folders pertaining to the current and previous versions of the specification.
+Каждая папка в репозитории, такая как [примеры](examples) и [схемы](schemas), должны содержать папки, относящиеся к текущей и предыдущей версиям спецификации.
 
 ## Посмотреть в действии
 
-If you just want to see it work, check out the [список примеров](examples/v3.0).
+Если хотите посмотреть как это работает, посмотрите на [список примеров](examples/v3.0).
 
 ## Инструменты и библиотеки
 
